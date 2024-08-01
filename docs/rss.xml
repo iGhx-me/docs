@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>文档一览表</title><link>https://iGhx-me.github.io/docs</link><description>按编号查阅</description><copyright>文档一览表</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://iGhx-me.github.io/docs</link></image><lastBuildDate>Thu, 01 Aug 2024 05:09:03 +0000</lastBuildDate><managingEditor>文档一览表</managingEditor><ttl>60</ttl><webMaster>文档一览表</webMaster><item><title>网站导航</title><link>https://iGhx-me.github.io/docs/post/wang-zhan-dao-hang.html</link><description># iGhx名下可公开的所有网站&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>文档一览表</title><link>https://iGhx-me.github.io/docs</link><description>按编号查阅</description><copyright>文档一览表</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://iGhx-me.github.io/docs</link></image><lastBuildDate>Thu, 01 Aug 2024 08:42:43 +0000</lastBuildDate><managingEditor>文档一览表</managingEditor><ttl>60</ttl><webMaster>文档一览表</webMaster><item><title>网站导航</title><link>https://iGhx-me.github.io/docs/post/wang-zhan-dao-hang.html</link><description># iGhx名下可公开的所有网站&#13;
 [www.ighx.me - 官网](https://www.ighx.me/)&#13;
 [fish.ighx.me - 摸鱼](https://fish.ighx.me/)&#13;
 [dark.ighx.me - 开源pc游戏:小黑屋](https://dark.ighx.me/)&#13;
-[code.ighx.me - 在线Scratch编辑器](https://code.ighx.me/)&#13;
+[2010tcsy.github.io/scratch-gui2/ - 在线Scratch编辑器](https://2010tcsy.github.io/scratch-gui2/)&#13;
+[sb3.ighx.me - 在线Scratch编辑器](https://sb3.ighx.me/)&#13;
 [sb3tohtml.ighx.me - Scratch文件.sb打包.html](https://sb3tohtml.ighx.me/)&#13;
 [run.ighx.me - 导航站](https://run.ighx.me/)&#13;
 [pych.ighx.me - 我即将制作的Python可视化编程软件](https://pych.ighx.me/)&#13;
